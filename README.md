@@ -4,5 +4,5 @@ A Python program to synchronize two folders, maintaining a copy of the source fo
 ## How to use
 
 ```ruby
-python sync_folders.py <source_path> <replica_path> <sync_interval_seconds> <log_file_path>
+python main.py <source_path> <replica_path> <sync_interval_seconds> <log_file_path>
 ```
